@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @styrbjorne
-- 👀 I’m interested in React/Native, SQL, web development
-- 🌱 I’m currently learning angular
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me styrbjorne@outlook.com, icq: @styrbjorne
+- 👋 Hi, I’m @styrbjorne. I'm a former US Marine. I'm currently a Paramedic with a city fire department in Washington State.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning Python. I'm developing a cross-platform, HIPAA-compliant application to track patients, referrals, and to refer patients between health providers. It is currently being used by Community Paramedics, Social Workers, Behavioral Health Workers, Firefighters, Paramedics, Nurses, Physicians.
+- 💞️ I’m looking to collaborate on anything, especially medical-related projects.
+- 📫 How to reach me db.gerdes@outlook.com or bgerdes@cityofpa.us.
