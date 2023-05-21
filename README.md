@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Brian | @styrbjorne. I'm a former US Marine. I'm currently a Paramedic at a fire department in Washington State, USA.
-- 👀 I’m interested in software development.
-- 🌱 I'm developing a cross-platform, HIPAA-compliant application to track patients, referrals, and to refer patients between health providers. It is currently being used by Community Paramedics, Social Workers, Behavioral Health Workers, Firefighters, Paramedics, Nurses, Physicians.
-- 💞️ I’m looking to collaborate on anything.
-- 📫 You can reach me at brian.gerdes@protonmail.com.
+Learning.
